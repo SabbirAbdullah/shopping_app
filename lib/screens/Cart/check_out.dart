@@ -1,5 +1,5 @@
 import 'package:ecommerce_mobile_app/Provider/add_to_cart_provider.dart';
-import 'package:ecommerce_mobile_app/constants.dart';
+import 'package:ecommerce_mobile_app/utilis/constants.dart';
 import 'package:flutter/material.dart';
 
 class CheckOutBox extends StatelessWidget {

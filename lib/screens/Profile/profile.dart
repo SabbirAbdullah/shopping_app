@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import '../../constants.dart';
+import '../../utilis/constants.dart';
 
 class Profile extends StatelessWidget {
   const Profile({super.key});

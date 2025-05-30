@@ -2,7 +2,7 @@ import 'package:ecommerce_mobile_app/Provider/add_to_cart_provider.dart';
 import 'package:ecommerce_mobile_app/screens/Cart/check_out.dart';
 import 'package:ecommerce_mobile_app/screens/Home/home_screen.dart';
 import 'package:flutter/material.dart';
-import '../../constants.dart';
+import '../../utilis/constants.dart';
 
 class CartScreen extends StatefulWidget {
   const CartScreen({super.key});

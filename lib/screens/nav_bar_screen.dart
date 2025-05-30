@@ -1,4 +1,4 @@
-import 'package:ecommerce_mobile_app/constants.dart';
+import 'package:ecommerce_mobile_app/utilis/constants.dart';
 import 'package:ecommerce_mobile_app/screens/Cart/cart_screen.dart';
 import 'package:ecommerce_mobile_app/screens/Home/home_screen.dart';
 import 'package:ecommerce_mobile_app/screens/Profile/profile.dart';
@@ -13,6 +13,7 @@ class BottomNavBar extends StatefulWidget {
 }
 
 class _BottomNavBarState extends State<BottomNavBar> {
+
   int cuttentIndex = 0;
     List screens = const [
       HomeScreen(),
@@ -21,6 +22,7 @@ class _BottomNavBarState extends State<BottomNavBar> {
       Profile(),
   ];
   @override
+
   Widget build(BuildContext context) {
     return Scaffold(
       bottomNavigationBar: BottomAppBar(
