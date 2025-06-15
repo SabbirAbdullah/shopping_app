@@ -1,4 +1,5 @@
-![shopping](https://github.com/user-attachments/assets/83faa4bc-96a5-4c90-8528-cbd565947401)# ecommerce_mobile_app
+e![shop](https://github.com/user-attachments/assets/2ffc83a7-0ff0-43b5-8790-69f5245106b0)
+commerce_mobile_app
 
 A new Flutter project.
 
