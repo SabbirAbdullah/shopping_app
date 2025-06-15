@@ -1,9 +1,6 @@
-# ecommerce_mobile_app
+![shopping](https://github.com/user-attachments/assets/83faa4bc-96a5-4c90-8528-cbd565947401)# ecommerce_mobile_app
 
 A new Flutter project.
-
-
-![iPhone 1](https://github.com/Sabbir-Abdullah/Shopping/assets/105972343/78157064-ef4f-4d9f-aab0-342674666ca2)# Shopping
 
 
 This project is a Flutter based Ecommerce mobile app.
